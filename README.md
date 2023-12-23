@@ -18,7 +18,7 @@
    
 ## 📊 Github Stats
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=skimtiyaz004&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="shubhi-sharma" />
+<!--     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=skimtiyaz004&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="shubhi-sharma" /> -->
 <!--     <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=skimtiyaz004&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="shubhi-sharma" /> -->
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skimtiyaz004&show_icons=true&theme=radical&hide_border=true" alt="skimtiyaz004" /></p>
     
