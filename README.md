@@ -1,5 +1,5 @@
 
- <h1 align="center">Hi 👋, I'm shubhi sharma</h1>
+ <h1 align="center">Hi 👋, I'm Sk Imtiyaz</h1>
  <a href="https://github.com/skimtiyaz004/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=skimtiyaz004">
 </a>
